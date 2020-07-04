@@ -7,3 +7,12 @@ C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\101Encryption\101Encrypti
 C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\101Encryption\101Encryption\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
 C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\101Encryption\101Encryption\obj\x86\Debug\101Encryption.exe
 C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\101Encryption\101Encryption\obj\x86\Debug\101Encryption.pdb
+D:\Programming\Projects\101Encryption\101Encryption\bin\Debug\101Encryption.exe
+D:\Programming\Projects\101Encryption\101Encryption\bin\Debug\101Encryption.pdb
+D:\Programming\Projects\101Encryption\101Encryption\obj\x86\Debug\101Encryption.csprojAssemblyReference.cache
+D:\Programming\Projects\101Encryption\101Encryption\obj\x86\Debug\_101Encryption.MainFrm.resources
+D:\Programming\Projects\101Encryption\101Encryption\obj\x86\Debug\_101Encryption.Properties.Resources.resources
+D:\Programming\Projects\101Encryption\101Encryption\obj\x86\Debug\101Encryption.csproj.GenerateResource.cache
+D:\Programming\Projects\101Encryption\101Encryption\obj\x86\Debug\101Encryption.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\101Encryption\101Encryption\obj\x86\Debug\101Encryption.exe
+D:\Programming\Projects\101Encryption\101Encryption\obj\x86\Debug\101Encryption.pdb
